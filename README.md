@@ -17,11 +17,11 @@ Each directory contains a suite of Jupyter Notebooks that present the code, visu
 
 Throughout these projects, we utilize several Python libraries integral to processing and analyzing data:
 
-- `opencv-python` (OpenCV): For comprehensive image processing tasks.
+- `opencv-python` : For comprehensive image processing tasks.
 - `numpy`: Essential for high-performance scientific computing.
-- `scikit-image` (skimage): For advanced image processing.
+- `scikit-image` : For advanced image processing.
 - `matplotlib`: For creating static, interactive, and animated visualizations.
 - `scipy`: For fundamental routines for scientific computing.
-- `scikit-learn` (sklearn): For machine learning and data mining.
+- `scikit-learn` : For machine learning and data mining.
 - `pandas`: For data manipulation and analysis.
 
