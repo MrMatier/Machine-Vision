@@ -1,6 +1,6 @@
 # Machine Vision: Image and Signal Processing
 
-This repository is a comprehensive resource dedicated to the exploration of image and signal processing techniques within the realm of machine vision. Contained herein are various Python-implemented projects that demonstrate the manipulation, transformation, and analysis of images and signals using Jupyter Notebooks.
+This repository is a comprehensive resource dedicated to the exploration of image and signal processing techniques within the realm of machine vision. Contained herein are various Python-implemented projects that demonstrate the manipulation, transformation, and analysis of images and signals using Python and Jupyter Notebooks.
 
 ## Repository Contents
 
