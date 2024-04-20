@@ -15,7 +15,7 @@ Each directory contains a suite of Jupyter Notebooks that present the code, visu
 
 ## Technologies
 
-Throughout these projects, we utilize several Python libraries integral to processing and analyzing data:
+Throughout these projects, I utilize several Python libraries integral to processing and analyzing data:
 
 - `opencv-python` : For comprehensive image processing tasks.
 - `numpy`: Essential for high-performance scientific computing.
